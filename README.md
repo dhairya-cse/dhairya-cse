@@ -21,7 +21,7 @@ Yes that's quite right, I am to have a good grasp on the following topics in com
 - Deep Learning
 - Data Structure and Algorithms 
 - Web development (To make presentable applications)
-- WEB ASSEMBLIES (Perfromance matters)
+- WEB ASSEMBLIES (Perfromance matters!)
 
 I have baisc exposure to all of them through course assignment and projects. I am trying to master these with time.
 
