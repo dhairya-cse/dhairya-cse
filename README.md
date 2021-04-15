@@ -3,7 +3,7 @@ dhairya-cse/dhairya-cse is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-Hi, I am Dhairya Bhardwaj. I am currently doing my Masters of Technology in Computer Science from Indian Institute of Technology(IIT), Madras. Though I am supposed to be working a lot in Computer Science field, my interest areas consists various topics listed below.
+Hi, I am Dhairya Bhardwaj. I am currently doing my Masters of Technology in Computer Science from Indian Institute of Technology (IIT), Madras. Though I am supposed to be working a lot in Computer Science field, my interest areas consists various topics listed below.
 
 - Music
 - Lingustics
