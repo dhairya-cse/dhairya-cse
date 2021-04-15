@@ -11,7 +11,7 @@ Hi, I am Dhairya Bhardwaj. I am currently doing my Masters of Technology in Comp
 - Evolutional Philosophy
 - Economics
 
-I have only listed few top level topics which connects very well to other topics like *Evolution* to *History*, *Behavioural Psychology* and *Lingustics* to *Sociology*,and It's a never ending space. I crave for knowledge and I want to know-it-all, but it's impossible and not so peaceful. Though, I am trying to have a diversified top level impression of the knowledge which matches my interest areas by reading as many books as I can.
+I have only listed few top level topics which connects very well to other topics like *Evolutional Philosophy* to *History*, *Behavioural Psychology* and *Lingustics* to *Sociology*,and It's a never ending space. I crave for knowledge and I want to know-it-all, but it's impossible and not so peaceful. Though, I am trying to have a diversified top level impression of the knowledge which matches my interest areas by reading as many books as I can.
 
 Well, you might be wondering *"where is Computer Science?"* The answer is very simple, Computer Science is nothing without interdiscpinary areas. Therefore my interest in computer science is to be feeded on my in general interests. You might have guessed a basic mapping from my interests to computer science like *music* to *signal processing*, *lingustics* to *natural language processing* etc.
 
