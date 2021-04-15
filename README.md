@@ -33,5 +33,5 @@ You can reach out to me via following means:
 
 
 Profiles:
-Blog: 1010is10.wordpress.com 
-github: https://github.com/dhairya-cse
+- Blog: 1010is10.wordpress.com 
+- github: https://github.com/dhairya-cse
