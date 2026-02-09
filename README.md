@@ -2,13 +2,9 @@ Self hosting enthusiatst hosting the following services to save some bucks and h
 
 1. [Keycloak](https://github.com/keycloak/keycloak): Identity and access management with OIDC and SSO
 2. [Postal](https://github.com/postalserver/postal): Mail server
-3. [Grist](https://github.com/gristlabs/grist-core): A perfect marriage of google sheet and airtable with scirpting in python
-4. [Homarr](https://github.com/homarr-labs/homarr): A dashboard, and an app launcher
-5. [Miniflux](https://github.com/miniflux/v2): For all my RSS needs
-6. [Portainer](https://github.com/portainer/portainer): To manage my containers
-7. [Caddy](https://github.com/caddyserver/caddy): The reverse proxy
-8. [Ghost](https://github.com/TryGhost/Ghost): If I want to write some blog
-9. [Trilium Next](https://github.com/TriliumNext/Trilium): To take some notes
+3. [Portainer](https://github.com/portainer/portainer): To manage my containers
+4. [Caddy](https://github.com/caddyserver/caddy): The reverse proxy
+5. [Ghost](https://github.com/TryGhost/Ghost): If I want to write some blog
 
 Also hosting some of my personal projects:
 1. [Bhairavi](https://github.com/dhairya-cse/bhairavi): A music learning application
